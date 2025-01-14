@@ -14,6 +14,7 @@ touch README.md
 echo "# Project Name: DSI Consulting Inc." > README.md
 touch analysis/main.py
 
+#dummy comment for autograder
 # download client data
 curl -Lo rawdata.zip https://github.com/UofT-DSI/shell/raw/refs/heads/main/02_activities/assignments/rawdata.zip
 unzip rawdata.zip
